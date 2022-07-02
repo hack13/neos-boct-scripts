@@ -19,7 +19,7 @@
 	],
 	"script": {
 		"name": "Leeches & Legion",
-		"author": "Steven Mebway",
+		"author": "Steven Medway",
 		"roles": [
 			{ "id": "pixie" },
 			{ "id": "clockmaker" },
