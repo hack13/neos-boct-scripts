@@ -1,0 +1,77 @@
+{
+	"game name" : "Legion Mishap",
+	"date" : "June 30, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Clockmaker/Legion",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/066c9aa4-1ab7-4647-acfa-c274215c2cb6?autoplay=false",
+			"credit" : "Hack13"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Clockmaker/Legion",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/q-3OpUAaq30",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Leeches & Legion",
+		"author": "Steven Mebway",
+		"roles": [
+			{ "id": "pixie" },
+			{ "id": "clockmaker" },
+			{ "id": "sailor" },
+			{ "id": "balloonist" },
+			{ "id": "snake_charmer" },
+			{ "id": "mathematician" },
+			{ "id": "fisherman" },
+			{ "id": "ravenkeeper" },
+			{ "id": "tea_lady" },
+			{ "id": "fool" },
+			{ "id": "farmer" },
+			{ "id": "sage" },
+			{ "id": "alchemist" },
+			{ "id": "drunk" },
+			{ "id": "mutant" },
+			{ "id": "golem" },
+			{ "id": "acrobat" },
+			{ "id": "puzzlemaster" },
+			{ "id": "goblin" },
+			{ "id": "psychopath" },
+			{ "id": "poisoner" },
+			{ "id": "pit" },
+			{ "id": "godfather" },
+			{ "id": "lleech" },
+			{ "id": "legion" }
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+            { "name": "Nexulan", "role": "legion" },
+            { "name": "retrospectiv", "role": "legion" },
+            { "name": "Hack13", "role": "legion" },
+            { "name": "ScarsTRF", "role": "legion" },
+            { "name": "Juanvi", "role": "tea_lady" },
+            { "name": "Gabriel Serealia", "role": "legion" },
+            { "name": "Blueterra", "role": "puzzlemaster" },
+            { "name": "1amNick", "role": "sage" },
+            { "name": "AngryWolf", "role": "sailor" },
+            { "name": "darkysabertooth", "role": "golem" },
+            { "name": "Frooxius", "role": "legion" }
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "<p>Night1<br/>-------<br/>BLUFFS-Pixie,FoolandFarmer<br/>AngryWolftheSailorchosesdarky<br/>retrospectivetheleachchoosesBlueTerratobetheirhost<br/>Scarsthepoisionerchoosestopoisonhack13<br/>NexulanthesnakecharmerpicksBlueTerra<br/>hacktheclockmakerlearns4whichisincorrectduetobeingpoisoned<br/>GaberialtheBallonistSeesRetrospective<br/>JuanviisthePuzzlemaster'sdrunkHOWEVERduetotheLeachtheirtheyarenotdrunkrightnow</p><p>Day1<br/>--------<br/>AngryWolfNomitesGabbybutonlygets4votes</p><p>Night2<br/>---------<br/>AngryWolftheSailorchoseshack13<br/>ScarsthepoisionerchoosesAngryWolf<br/>Nexulanthesnakecharmerpicksdarky<br/>FrooxiusthePitHagchosestochange1amnickintothePuzzlemasternwhichdoesn'tworkbecausethepuzzlemasterisalreadyinplay<br/>retrospectivetheleachchoosestokillAngryWolf<br/>GaberialtheBallonistSeeshack13</p><p>Day2<br/>---------<br/>JuanvitheTeaLadynomiatesBlueTerraandgets5<br/>hack13nomiatesretrospectiveandgets0votes</p><p>Night3<br/>---------<br/>ScarsthepoisionerchoosesJuanvi<br/>NexulanthesnakecharmerpicksGaberial<br/>FrooxiusthePitHagchosestochangeGaberialintotheLegionalsotransformingNexulan,Frooxius,Retrospective,hack13andScarsintoLegion</p><p>Day3<br/>---------<br/>Nexulannomiatesnickbecausetheyareafox....<br/>Hack13wasnomiatedandclaimedgoblineventhotheywasnot</p><p>Night4<br/>---------<br/>retrospectivediesinthenight</p><p>Day4<br/>---------<br/>Gabbynomiateddarkyandgot0votes<br/>JuanvinomiatedFrooxiusandgot2votes<br/>Nexulannomiatedhackandgot2votes<br/>HackNomitesJuanviandgets1vote<br/>DarkynomiatsDarkyandDarkydiesandthenwasexecuted!</p><p>Night5<br/>---------<br/>hack13diesinthenight</p><p>Day5<br/>---------<br/>Juanvinomiatesthemselfandgets6votes</p>"
+}
