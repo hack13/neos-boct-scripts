@@ -15,6 +15,13 @@
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/q-3OpUAaq30",
 			"credit" : "Hack13"
+		},
+		{
+			"id" : "3",
+			"perspective" : "Moonchild",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/7L30SYBiVIc",
+			"credit" : "Frooxius"
 		}
 	],
 	"script": {
