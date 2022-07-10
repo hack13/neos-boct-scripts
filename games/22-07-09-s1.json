@@ -50,7 +50,7 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Arito", "pfp": "/assets/storytellers/Arito.webp" },
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
 			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
 		],
 		"residents": [

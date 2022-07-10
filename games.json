@@ -1,5 +1,21 @@
 [
     {
+        "name": "Catfishing The Pros",
+        "date": "July 9, 2022",
+        "script": "Catfishing 11.1",
+        "storytellers": "Delta",
+        "thumbnail": "/assets/thumbnails/22-07-09-s2.webp",
+        "slug": "/game/22-07-09-s2"
+    },
+    {
+        "name": "Quite the Boondandy",
+        "date": "July 9, 2022",
+        "script": "The Horrifying Spectacle of Public Executions",
+        "storytellers": "Arito & Raith",
+        "thumbnail": "/assets/thumbnails/22-07-09-s1.webp",
+        "slug": "/game/22-07-09-s1"
+    },
+    {
         "name": "Legion Mishap",
         "date": "June 30, 2022",
         "script": "Leeches & Legion",
