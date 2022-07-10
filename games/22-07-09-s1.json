@@ -1,0 +1,75 @@
+{
+	"game name" : "Quite the Boondandy",
+	"date" : "July 9, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/73mAXZ-mDWw",
+			"credit" : "Raith"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Cannibal",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/hIou0ENJMEU",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "The Horrifying Spectacle of Public Executions",
+		"author": "Navean",
+		"roles": [
+			{"id":"chef"},
+			{"id":"sailor"},
+			{"id":"chambermaid"},
+			{"id":"dreamer"},
+			{"id":"cult_leader"},
+			{"id":"monk"},
+			{"id":"exorcist"},
+			{"id":"savant"},
+			{"id":"seamstress"},
+			{"id":"fool"},
+			{"id":"sage"},
+			{"id":"magician"},
+			{"id":"cannibal"},
+			{"id":"tinker"},
+			{"id":"klutz"},
+			{"id":"drunk"},
+			{"id":"lunatic"},
+			{"id":"mezepheles"},
+			{"id":"devils_advocate"},
+			{"id":"baron"},
+			{"id":"boomdandy"},
+			{"id":"lleech"},
+			{"id":"vigormortis"},
+			{"id":"vortox"},
+			{"id":"zombuul"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Arito", "pfp": "/assets/storytellers/Arito.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			{"name":"Hack13","role":"cannibal","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Gabriel","role":"chef","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"boomdandy","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Chief_Redneck","role":"sailor","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Juanvi","role":"zombuul","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Valnar","role":"monk","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"klutz","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Wolfy.P","role":"cultleader","reminders":[{"role":"drunk","name":"Drunk"}],"isDead":true,"pronouns":""},
+			{"name":"BlueTera","role":"magician","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}

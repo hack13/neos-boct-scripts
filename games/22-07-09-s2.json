@@ -1,0 +1,74 @@
+{
+	"game name" : "Catfishing The Pros",
+	"date" : "July 9, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Ravenkeeper",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/7kFZlJKGa2w",
+			"credit" : "Raith"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Widow",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/M9cDwjIhizs",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Catfishing 11.1",
+		"author": "Emily",
+		"roles": [
+			{"id": "investigator"},
+			{"id": "chef"},
+			{"id": "grandmother"},
+			{"id": "balloonist"},
+			{"id": "dreamer"},
+			{"id": "fortune_teller"},
+			{"id": "snake_charmer"},
+			{"id": "gambler"},
+			{"id": "savant"},
+			{"id": "philosopher"},
+			{"id": "ravenkeeper"},
+			{"id": "amnesiac"},
+			{"id": "cannibal"},
+			{"id": "drunk"},
+			{"id": "recluse"},
+			{"id": "sweetheart"},
+			{"id": "mutant"},
+			{"id": "lunatic"},
+			{"id": "godfather"},
+			{"id": "cerenovus"},
+			{"id": "pit-hag"},
+			{"id": "widow"},
+			{"id": "imp"},
+			{"id": "vigormortis"},
+			{"id": "fang_gu"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" }
+		],
+		"residents": [
+			{"name":"Hack13","role":"widow","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Gabriel","role":"chef","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"canibal","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Chief_Redneck","role":"gambler","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Raith","role":"ravenkeeper","reminders":[{"role":"widow","name":"Poisoned"}],"isDead":false,"pronouns":""},
+			{"name":"retrospectiv", "role":"sweetheart","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"fortune_teller","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Arito","role":"grandmother","reminders":[{"role":"philosopher","name":"chosen"}],"isDead":true,"pronouns":""},
+			{"name":"BlueTera","role":"vigormortis","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
