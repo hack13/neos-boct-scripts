@@ -1,0 +1,79 @@
+{
+	"game name" : "The Peaceful Townsfolk",
+	"date" : "July 17, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/d03c7bdb-60c1-4a30-9f1f-d87d2d5b3cc9?autoplay=false",
+			"credit" : "Foxworth"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Goon",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/RTAJ5fB6JkU",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Bad Moon Rising",
+		"author": "The Pandemonium Institute",
+		"roles": [
+			{"id": "grandmother"},
+			{"id": "sailor"},
+			{"id": "chambermaid"},
+			{"id": "exorcist"},
+			{"id": "innkeeper"},
+			{"id": "gambler"},
+			{"id": "gossip"},
+			{"id": "courtier"},
+			{"id": "professor"},
+			{"id": "minstrel"},
+			{"id": "tea_lady"},
+			{"id": "pacifist"},
+			{"id": "fool"},
+			{"id": "tinker"},
+			{"id": "moonchild"},
+			{"id": "goon"},
+			{"id": "lunatic"},
+			{"id": "godfather"},
+			{"id": "devils_advocate"},
+			{"id": "assassin"},
+			{"id": "mastermind"},
+			{"id": "zombuul"},
+			{"id": "pukka"},
+			{"id": "shabaloth"},
+			{"id": "po"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
+			{ "name": "Chief Redneck", "pfp": "https://ui-avatars.com/api/?name=Chief+Redneck&background=A60707&color=fff&size=150" }
+		],
+		"residents": [
+			{"name":"Mallow","role":"godfather","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"nearbyfaraaway","role":"courtier","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"pacifist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"BlueTera","role":"devils_advocate","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Juanvi","role":"professor","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"lunatic","reminders":[{"role":"po"}],"isDead":false,"pronouns":""},
+			{"name":"torch89","role":"grandmother","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"exorcist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"sailor","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"GabrielSerealia","role":"moonchild","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"goon","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"ATC_Man","role":"po","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
