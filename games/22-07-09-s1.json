@@ -61,7 +61,7 @@
 			{"name":"Juanvi","role":"zombuul","reminders":[],"isDead":false,"pronouns":""},
 			{"name":"Valnar","role":"monk","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"AngryWolf","role":"klutz","reminders":[],"isDead":true,"pronouns":""},
-			{"name":"Wolfy.P","role":"cultleader","reminders":[{"role":"drunk","name":"Drunk"}],"isDead":true,"pronouns":""},
+			{"name":"Wolfy.P","role":"cult_leader","reminders":[{"role":"drunk","name":"Drunk"}],"isDead":true,"pronouns":""},
 			{"name":"BlueTera","role":"magician","reminders":[],"isDead":true,"pronouns":""}
 		],
 		"travellers": [ 
