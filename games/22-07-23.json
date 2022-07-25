@@ -1,0 +1,71 @@
+{
+	"game name" : "The Confused Capable Townsfolk",
+	"date" : "July 23, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/77739429-f57a-4961-9639-078caa192d2a?autoplay=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "The Midnight Oasis",
+		"author": "Zets",
+		"roles": [
+			{"id":"noble"},
+			{"id":"balloonist"},
+			{"id":"snake_charmer"},
+			{"id":"undertaker"},
+			{"id":"savant"},
+			{"id":"amnesiac"},
+			{"id":"engineer"},
+			{"id":"fisherman"},
+			{"id":"huntsman"},
+			{"id":"farmer"},
+			{"id":"poppy_grower"},
+			{"id":"cannibal"},
+			{"id":"atheist"},
+			{"id":"damsel"},
+			{"id":"drunk"},
+			{"id":"golem"},
+			{"id":"barber"},
+			{"id":"mezepheles"},
+			{"id":"poisoner"},
+			{"id":"pit"},
+			{"id":"psychopath"},
+			{"id":"al"},
+			{"id":"vigormortis"},
+			{"id":"sentinel"},
+			{"id":"spirit_of_ivory"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" }
+		],
+		"residents": [
+			{"name":"TheElectro9","role":"al","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"undertaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"amnesiac","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"BlueTera","role":"snake_charmer","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Juanvi","role":"cannibal","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"farmer","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"conicaw","role":"poisoner","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"pit","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"huntsman","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"GabrielSerealia","role":"golem","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Valnar","role":"noble","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"ScarsTRF","role":"damsel","reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
