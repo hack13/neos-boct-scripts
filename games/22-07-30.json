@@ -1,0 +1,78 @@
+{
+	"game name" : "The Charming Vigormortis",
+	"date" : "July 30, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/763c11d2-a870-4dbe-a48e-6ee66e2191a8?autoplay=false",
+			"credit" : "Foxworth"
+		},
+        {
+            "id" : "1",
+            "perspective" : "Savant",
+            "platform" : "BunnyPlayer",
+            "source" : "iframe.mediadelivery.net/embed/46527/61592b0d-73ee-40f1-b942-bf7449ca5f3f?autoplay=false",
+            "credit" : "Hack13"
+        }
+	],
+	"script": {
+		"name": "Catfishing v11.1",
+		"author": "Emily",
+		"roles": [
+            {"id": "investigator"},
+            {"id": "chef"},
+            {"id": "grandmother"},
+            {"id": "balloonist"},
+            {"id": "dreamer"},
+            {"id": "fortune_teller"},
+            {"id": "snake_charmer"},
+            {"id": "gambler"},
+            {"id": "savant"},
+            {"id": "philosopher"},
+            {"id": "ravenkeeper"},
+            {"id": "amnesiac"},
+            {"id": "cannibal"},
+            {"id": "drunk"},
+            {"id": "recluse"},
+            {"id": "sweetheart"},
+            {"id": "mutant"},
+            {"id": "lunatic"},
+            {"id": "godfather"},
+            {"id": "cerenovus"},
+            {"id": "pit-hag"},
+            {"id": "widow"},
+            {"id": "imp"},
+            {"id": "vigormortis"},
+            {"id": "fang_gu"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			{"name":"Lynix","role":"grandmother","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Todd", "role":"philosopher","reminders":[{"role":"grandmother"}],"isDead":false,"pronouns":""},
+			{"name":"Valnar","role":"cannibal","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Juanvi","role":"amnesiac","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Conicaw","role":"drunk","reminders":[{"role":"balloonist"}],"isDead":false,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"farmer","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"AngryWolf","role":"chef","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"torch89","role":"widow","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"hack13","role":"savant","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"GabrielSerealia","role":"snake_charmer","reminders":[{"role":"vigormortis"}],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"vigormortis","reminders":[{"role":"snake_charmer"}],"isDead":false,"pronouns":""},
+			{"name":"foxworth","role":"gambler","reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
