@@ -4,7 +4,7 @@
 	"video sources" : [
 		{ 
 			"id" : "0",
-			"perspective" : "Storyteller",
+			"perspective" : "Gambler",
 			"platform" : "BunnyPlayer",
 			"source" : "iframe.mediadelivery.net/embed/46527/763c11d2-a870-4dbe-a48e-6ee66e2191a8?autoplay=false",
 			"credit" : "Foxworth"
