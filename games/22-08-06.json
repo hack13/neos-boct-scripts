@@ -1,0 +1,69 @@
+{
+	"game name" : "Single Shot of Confusion",
+	"date" : "August 6, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/573c2d1f-1eea-40c4-a781-5859764fad62?autoplay=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "One In The Chamber",
+		"author": "Unknown",
+		"roles": [
+            {"id": "chef"},
+            {"id": "empath"},
+            {"id": "fortune_teller"},
+            {"id": "investigator"},
+            {"id": "librarian"},
+            {"id": "monk"},
+            {"id": "ravenkeeper"},
+            {"id": "slayer"},
+            {"id": "soldier"},
+            {"id": "undertaker"},
+            {"id": "virgin"},
+            {"id": "washerwoman"},
+            {"id": "chambermaid"},
+            {"id": "drunk"},
+            {"id": "recluse"},
+            {"id": "saint"},
+            {"id": "tinker"},
+            {"id": "baron"},
+            {"id": "poisoner"},
+            {"id": "scarlet_woman"},
+            {"id": "spy"},
+            {"id": "imp"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" }
+		],
+		"residents": [
+			{"name":"Ventus The Sox","role":"empath","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Todd", "role":"slayer","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Conicaw","role":"monk","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Levithehusky","role":"chambermaid","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Conicaw","role":"drunk","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"akaifoxx", "role":"poisoner","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"BlueTera","role":"ravenkeeper","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Cheif Redneck","role":"imp","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia","role":"librarian","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Frooxius","role":"spy","reminders":[{"role":"imp"}],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"undertaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"washerwoman","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"saint","reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
