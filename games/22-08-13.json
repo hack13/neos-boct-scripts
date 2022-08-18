@@ -29,7 +29,7 @@
             {"id": "tinker"},
             {"id": "mutant"},
             {"id": "heretic"},
-            {"id": "clutz"},
+            {"id": "klutz"},
             {"id": "drunk"},
             {"id": "devils_advocate"},
             {"id": "cerenovus"},
@@ -59,7 +59,7 @@
 			{"name":"AngryWolf","role":"cannibal","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"hack13","role":"town_crier","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"Lynix", "role":"cerenovus","reminders":[],"isDead":false,"pronouns":""},
-			{"name":"Gemini", "role":"clutz","reminders":[],"isDead":true,"pronouns":""}
+			{"name":"Gemini", "role":"klutz","reminders":[],"isDead":true,"pronouns":""}
 		],
 		"travellers": [ 
 
