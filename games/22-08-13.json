@@ -1,0 +1,72 @@
+{
+	"game name" : "Everything Is Cursed",
+	"date" : "August 13, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/f47d3dd3-6176-4bed-8b6a-88d51790a30d?autoplay=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "How Can 1 Win",
+		"author": "Anonymous",
+		"roles": [
+            {"id": "clockmaker"},
+            {"id": "pixie"},
+            {"id": "sailor"},
+            {"id": "snake_charmer"},
+            {"id": "flowergirl"},
+            {"id": "town_crier"},
+            {"id": "oracle"},
+            {"id": "amnesiac"},
+            {"id": "fisherman"},
+            {"id": "philosopher"},
+            {"id": "farmer"},
+            {"id": "cannibal"},
+            {"id": "tinker"},
+            {"id": "mutant"},
+            {"id": "heretic"},
+            {"id": "clutz"},
+            {"id": "drunk"},
+            {"id": "devils_advocate"},
+            {"id": "cerenovus"},
+            {"id": "scarlet_woman"},
+            {"id": "evil_twin"},
+            {"id": "imp"},
+			{"id": "vigormortis"},
+			{"id": "fang_gu"},
+			{"id": "vortox"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
+			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
+			{ "name": "1amNick", "pfp": "/assets/storytellers/1amNick.webp" },
+			{ "name": "Chief Redneck", "pfp": "https://ui-avatars.com/api/?name=Chief+Redneck&background=A60707&color=fff&size=150" }
+		],
+		"residents": [
+			{"name":"Juanvi","role":"evil_twin","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Todd", "role":"clockmaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"oracle","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Valnar","role":"imp","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"torch89", "role":"fisherman","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia","role":"sailor","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"philosopher","reminders":[{"role":"pixie"}],"isDead":true,"pronouns":""},
+			{"name":"AngryWolf","role":"cannibal","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"town_crier","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Lynix", "role":"cerenovus","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Gemini", "role":"clutz","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
