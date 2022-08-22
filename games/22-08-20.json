@@ -1,0 +1,69 @@
+{
+	"game name" : "Loose Lipped Shabaloth",
+	"date" : "August 20, 2022",
+	"video sources" : [
+		{ 
+			"id" : "0",
+			"perspective" : "Shabaloth",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/b9eafa61-4de6-46af-898e-d8481493a8fa?autoplay=false",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "When Fine Society Sits Down to Dine",
+		"author": "Anonymous",
+		"roles": [
+            {"id": "noble"},
+            {"id": "chef"},
+            {"id": "empath"},
+            {"id": "dreamer"},
+            {"id": "oracle"},
+            {"id": "innkeeper"},
+            {"id": "gambler"},
+            {"id": "exorcist"},
+            {"id": "gossip"},
+            {"id": "seamstress"},
+            {"id": "slayer"},
+            {"id": "sage"},
+            {"id": "cannibal"},
+            {"id": "tinker"},
+            {"id": "recluse"},
+            {"id": "drunk"},
+            {"id": "butler"},
+            {"id": "godfather"},
+            {"id": "witch"},
+            {"id": "spy"},
+            {"id": "scarlet_woman"},
+            {"id": "shabaloth"},
+			{"id": "po"},
+			{"id": "vortox"},
+			{"id": "fang_gu"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			{"name":"BlueTera","role":"oracle","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Todd", "role":"recluse","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"scarlet_woman","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"innkeeper","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"torch89", "role":"witch","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"GabrielSerealia","role":"chef","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Frooxius","role":"noble","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"cannibal","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"shabaloth","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"TheElectro9", "role":"dreamer","reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
