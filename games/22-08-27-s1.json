@@ -53,9 +53,9 @@
 			{"name":"Juanvi","role":"amnesiac","reminders":[],"isDead":false,"pronouns":""},
 			{"name":"torch89", "role":"boomdandy","reminders":[],"isDead":false,"pronouns":""},
 			{"name":"BlueTera","role":"chef","reminders":[],"isDead":true,"pronouns":""},
-			{"name":"xenomorphVR","role":"lleech","reminders":[{"gooned":true}],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"snake_charmer","reminders":[{"gooned":true}],"isDead":true,"pronouns":""},
 			{"name":"retrospectiv","role":"sailor","reminders":[{"lleeched":true}],"isDead":false,"pronouns":""},
-			{"name":"foxworth", "role":"snake_charmer","reminders":[{"role":"lleech"}],"isDead":false,"pronouns":""},
+			{"name":"foxworth", "role":"lleech","reminders":[{"role":"snake_charmer"}],"isDead":false,"pronouns":""},
 			{"name":"TheElectro9", "role":"pixie","reminders":[{"drunk":true}],"isDead":false,"pronouns":""}
 		],
 		"travellers": [ 
