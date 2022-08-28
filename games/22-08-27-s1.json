@@ -56,7 +56,7 @@
 			{"name":"xenomorphVR","role":"lleech","reminders":[{"gooned":true}],"isDead":true,"pronouns":""},
 			{"name":"retrospectiv","role":"sailor","reminders":[{"lleeched":true}],"isDead":false,"pronouns":""},
 			{"name":"foxworth", "role":"snake_charmer","reminders":[{"role":"lleech"}],"isDead":false,"pronouns":""},
-			{"name":"TheElectro9", "role":"Pixie","reminders":[{"drunk":true}],"isDead":false,"pronouns":""}
+			{"name":"TheElectro9", "role":"pixie","reminders":[{"drunk":true}],"isDead":false,"pronouns":""}
 		],
 		"travellers": [ 
 
