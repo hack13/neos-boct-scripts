@@ -1,5 +1,23 @@
 [
     {
+        "id": "fPThrWDVBk8aFZy4wbgniZ",
+        "name": "No, I'm the Slayer!",
+        "date": "August 27, 2022",
+        "script": "Not a Defeat, But a Cure",
+        "storytellers": "Delta & 1amNick",
+        "thumbnail": "https://vz-f755a29c-81b.b-cdn.net/8a1d4ae0-36b0-413f-b811-5da1d26d6f5c/thumbnail.jpg",
+        "slug": "/game/22-08-27-s2"
+    },
+    {
+        "id": "6YLaho7EaeubDVW1WmwgmW",
+        "name": "Nothing to Lleech",
+        "date": "August 27, 2022",
+        "script": "Not a Defeat, But a Cure",
+        "storytellers": "Ari & Raith",
+        "thumbnail": "https://vz-f755a29c-81b.b-cdn.net/d0eefc8e-a3de-48b3-b02f-6d8522411bd6/thumbnail_361777dd.jpg",
+        "slug": "/game/22-08-27-s1"
+    },
+    {
         "id": "mnsqmM23LzLuGncEo9lFz",
         "name": "Loose Lipped Shabaloth",
         "date": "August 20, 2022",
@@ -40,7 +58,7 @@
         "name": "The Confused Capable Townsfolk",
         "date": "July 23, 2022",
         "script": "The Midnight Oasis",
-        "storytellers": "Delta, Foxworth",
+        "storytellers": "Delta & Foxworth",
         "thumbnail": "/assets/thumbnails/22-07-23.webp",
         "slug": "/game/22-07-23"
     },
@@ -103,7 +121,7 @@
         "name": "Double Trouble",
         "date": "June 21, 2022",
         "script": "And Make It Double",
-        "storytellers": "Delta &amp; 1amNick",
+        "storytellers": "Delta & 1amNick",
         "thumbnail": "/assets/thumbnails/thumbnail_8943c357.webp",
         "slug": "/game/22-06-21"
     },

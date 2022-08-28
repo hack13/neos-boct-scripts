@@ -1,0 +1,69 @@
+{
+	"game name" : "Nothing to Lleech",
+	"date" : "August 27, 2022",
+	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/d0eefc8e-a3de-48b3-b02f-6d8522411bd6/thumbnail_361777dd.jpg",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Snake Charmer & Lleech",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/d0eefc8e-a3de-48b3-b02f-6d8522411bd6?autoplay=false&preload=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "Not a Defeat, But a Cure",
+		"author": "Emma C.",
+		"roles": [
+            {"id": "chef"},
+            {"id": "pixie"},
+            {"id": "empath"},
+            {"id": "sailor"},
+            {"id": "snake_charmer"},
+            {"id": "oracle"},
+            {"id": "undertaker"},
+            {"id": "artist"},
+            {"id": "fisherman"},
+            {"id": "slayer"},
+            {"id": "poppy_grower"},
+            {"id": "amnesiac"},
+            {"id": "cannibal"},
+            {"id": "goon"},
+            {"id": "drunk"},
+            {"id": "golem"},
+            {"id": "lunatic"},
+            {"id": "spy"},
+            {"id": "pit"},
+            {"id": "cerenovus"},
+            {"id": "boomdandy"},
+            {"id": "lil_monsta"},
+			{"id": "fang_gu"},
+			{"id": "vigormortis"},
+			{"id": "lleech"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			{"name":"Zandario","role":"undertaker","reminders":[{"lleeched":true}],"isDead":true,"pronouns":""},
+			{"name":"Chief Redneck", "role":"goon","reminders":[{"alignment":"evil"}, {"lleeched":true}],"isDead":true,"pronouns":""},
+			{"name":"Juanvi","role":"amnesiac","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"torch89", "role":"boomdandy","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"BlueTera","role":"chef","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"lleech","reminders":[{"gooned":true}],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv","role":"sailor","reminders":[{"lleeched":true}],"isDead":false,"pronouns":""},
+			{"name":"foxworth", "role":"snake_charmer","reminders":[{"role":"lleech"}],"isDead":false,"pronouns":""},
+			{"name":"TheElectro9", "role":"Pixie","reminders":[{"drunk":true}],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}

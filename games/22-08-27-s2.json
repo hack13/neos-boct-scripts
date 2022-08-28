@@ -1,0 +1,68 @@
+{
+	"game name" : "No, I'm the Slayer!",
+	"date" : "August 27, 2022",
+	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/8a1d4ae0-36b0-413f-b811-5da1d26d6f5c/thumbnail.jpg",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Amnesiac",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/8a1d4ae0-36b0-413f-b811-5da1d26d6f5c?autoplay=true&preload=false",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Not a Defeat, But a Cure",
+		"author": "Emma C.",
+		"roles": [
+            {"id": "chef"},
+            {"id": "pixie"},
+            {"id": "empath"},
+            {"id": "sailor"},
+            {"id": "snake_charmer"},
+            {"id": "oracle"},
+            {"id": "undertaker"},
+            {"id": "artist"},
+            {"id": "fisherman"},
+            {"id": "slayer"},
+            {"id": "poppy_grower"},
+            {"id": "amnesiac"},
+            {"id": "cannibal"},
+            {"id": "goon"},
+            {"id": "drunk"},
+            {"id": "golem"},
+            {"id": "lunatic"},
+            {"id": "spy"},
+            {"id": "pit"},
+            {"id": "cerenovus"},
+            {"id": "boomdandy"},
+            {"id": "lil_monsta"},
+			{"id": "fang_gu"},
+			{"id": "vigormortis"},
+			{"id": "lleech"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "1amNick", "pfp": "/assets/storytellers/1amNick.webp" }
+		],
+		"residents": [
+			{"name":"Levithehusky","role":"goon","reminders":[{"alignment":"evil"}],"isDead":false,"pronouns":""},
+			{"name":"Valnar", "role":"cannibal","reminders":[{"role":"fang_gu"}, {"drunk": true}, {"alignment":"evil"}],"isDead":false,"pronouns":""},
+			{"name":"Todd","role":"oracle","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"artist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia","role":"cerenovus","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Conicaw", "role":"undertaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"fang_gu","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"amnesiac","reminders":[{"ability":"You learn each night a role that isn't in play"}],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
