@@ -1,0 +1,59 @@
+{
+	"game name" : "",
+	"date" : "September 3, 2022",
+	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/461051f2-7468-4abd-b522-f36c25efbb3c/thumbnail.jpg",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Poisoner",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/461051f2-7468-4abd-b522-f36c25efbb3c?autoplay=true&preload=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "Double Sacrifice",
+		"author": "Arito",
+		"roles": [
+            {"id": "chef"},
+            {"id": "empath"},
+            {"id": "fortune_teller"},
+            {"id": "virgin"},
+            {"id": "librarian"},
+            {"id": "monk"},
+            {"id": "ravenkeeper"},
+            {"id": "slayer"},
+            {"id": "soldier"},
+            {"id": "undertaker"},
+            {"id": "washerwoman"},
+            {"id": "double_agent"},
+            {"id": "sacrifice"},
+            {"id": "drunk"},
+            {"id": "recluse"},
+            {"id": "saint"},
+            {"id": "barber"},
+            {"id": "baron"},
+            {"id": "poisoner"},
+            {"id": "scarlet_woman"},
+            {"id": "devils_advocate"},
+			{"id": "imp"},
+			{"id": "zombuul"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}

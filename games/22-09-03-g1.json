@@ -1,0 +1,72 @@
+{
+	"game name" : "",
+	"date" : "September 3, 2022",
+	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/bad02b52-5462-4dbc-81b6-94a18306ff88/thumbnail.jpg",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Story Teller",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/bad02b52-5462-4dbc-81b6-94a18306ff88?autoplay=true&preload=false",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "Bad Moon Rising",
+		"author": "The Pandemonium Institute",
+		"roles": [
+			{"id": "grandmother"},
+			{"id": "sailor"},
+			{"id": "chambermaid"},
+			{"id": "exorcist"},
+			{"id": "innkeeper"},
+			{"id": "gambler"},
+			{"id": "gossip"},
+			{"id": "courtier"},
+			{"id": "professor"},
+			{"id": "minstrel"},
+			{"id": "tea_lady"},
+			{"id": "pacifist"},
+			{"id": "fool"},
+			{"id": "tinker"},
+			{"id": "moonchild"},
+			{"id": "goon"},
+			{"id": "lunatic"},
+			{"id": "godfather"},
+			{"id": "devils_advocate"},
+			{"id": "assassin"},
+			{"id": "mastermind"},
+			{"id": "zombuul"},
+			{"id": "pukka"},
+			{"id": "shabaloth"},
+			{"id": "po"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
+			{ "name": "Cheif Redneck", "pfp": "https://ui-avatars.com/api/?name=Chief+Redneck&background=A60707&color=fff&size=150" }
+		],
+		"residents": [
+			{"name":"torch89","role":"goon","reminders":[{"alignment":"evil"}],"isDead":true,"pronouns":""},
+			{"name":"Valnar", "role":"fool","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"moonchild","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"pacifist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia","role":"exorcist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Conicaw", "role":"devils_advocate","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Frooxius","role":"tinker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"hack13","role":"grandmother","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Zandario", "role":"chambermaid","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"BlueTera", "role":"professor","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"godfather","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"po", "reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
