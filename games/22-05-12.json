@@ -7,7 +7,7 @@
 			"id" : "0",
 			"perspective" : "Ravenskeeper",
 			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/05136c52-a1ee-4a9e-8d68-0002c72da508?autoplay=false",
+			"source" : "iframe.mediadelivery.net/embed/46527/05136c52-a1ee-4a9e-8d68-0002c72da508?autoplay=false&preload=false",
 			"credit" : "Foxworth"
 		}
 	],

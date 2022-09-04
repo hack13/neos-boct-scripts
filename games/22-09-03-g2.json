@@ -7,7 +7,7 @@
 			"id" : "0",
 			"perspective" : "Poisoner",
 			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/461051f2-7468-4abd-b522-f36c25efbb3c?autoplay=true&preload=false",
+			"source" : "iframe.mediadelivery.net/embed/46527/461051f2-7468-4abd-b522-f36c25efbb3c?autoplay=false&preload=false&preload=false",
 			"credit" : "Foxworth"
 		}
 	],

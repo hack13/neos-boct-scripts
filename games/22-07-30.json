@@ -7,14 +7,14 @@
 			"id" : "0",
 			"perspective" : "Gambler",
 			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/763c11d2-a870-4dbe-a48e-6ee66e2191a8?autoplay=false",
+			"source" : "iframe.mediadelivery.net/embed/46527/763c11d2-a870-4dbe-a48e-6ee66e2191a8?autoplay=false&preload=false",
 			"credit" : "Foxworth"
 		},
         {
             "id" : "1",
             "perspective" : "Savant",
             "platform" : "BunnyPlayer",
-            "source" : "iframe.mediadelivery.net/embed/46527/61592b0d-73ee-40f1-b942-bf7449ca5f3f?autoplay=false",
+            "source" : "iframe.mediadelivery.net/embed/46527/61592b0d-73ee-40f1-b942-bf7449ca5f3f?autoplay=false&preload=false",
             "credit" : "Hack13"
         }
 	],

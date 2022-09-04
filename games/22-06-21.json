@@ -7,7 +7,7 @@
 			"id" : "0",
 			"perspective" : "Empath",
 			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/2ae2b03d-09de-42c0-9861-060dcf3f9814?autoplay=false",
+			"source" : "iframe.mediadelivery.net/embed/46527/2ae2b03d-09de-42c0-9861-060dcf3f9814?autoplay=false&preload=false",
 			"credit" : "Hack13"
 		},
 		{
