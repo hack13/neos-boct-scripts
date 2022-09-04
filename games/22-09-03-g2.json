@@ -1,5 +1,5 @@
 {
-	"game name" : "Experimental Homebrew",
+	"game name" : "No, I'm the Recluse",
 	"date" : "September 3, 2022",
 	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/461051f2-7468-4abd-b522-f36c25efbb3c/thumbnail.jpg",
 	"video sources" : [
@@ -46,7 +46,18 @@
 			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
 		],
 		"residents": [
-			
+			{"name":"trovBORG","role":"barber","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Chief Redneck", "role":"chef","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Todd","role":"imp","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"zombuul","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia","role":"recluse","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Conicaw", "role":"saint","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"sacrifice","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Foxworth","role":"poisoner","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Zandario", "role":"librarian","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"BlueTera", "role":"recluse","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"baron","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"empath", "reminders":[],"isDead":true,"pronouns":""}
 		],
 		"travellers": [ 
 
