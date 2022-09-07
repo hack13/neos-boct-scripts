@@ -1,0 +1,66 @@
+{
+	"game name" : "Party Goer Madness (Test Game)",
+	"date" : "September 6, 2022",
+	"thumbnail" : "https://vz-f755a29c-81b.b-cdn.net/6af1a808-591d-46ca-85f9-83d6377a0d87/thumbnail.jpg",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Slayer",
+			"platform" : "BunnyPlayer",
+			"source" : "iframe.mediadelivery.net/embed/46527/6af1a808-591d-46ca-85f9-83d6377a0d87?autoplay=false&preload=false&preload=false",
+			"credit" : "hack13"
+		}
+	],
+	"script": {
+		"name": "Party Goer Test Session",
+		"author": "Juanvi",
+		"roles": [
+            {"id": "washerwoman"},
+            {"id": "librarian"},
+            {"id": "investigator"},
+            {"id": "chef"},
+            {"id": "empath"},
+            {"id": "fortune_teller"},
+            {"id": "undertaker"},
+            {"id": "innkeeper"},
+            {"id": "seamstress"},
+            {"id": "ravenkeeper"},
+            {"id": "virgin"},
+            {"id": "slayer"},
+            {"id": "party_goer"},
+            {"id": "drunk"},
+            {"id": "recluse"},
+            {"id": "saint"},
+            {"id": "poisoner"},
+            {"id": "scarlet_woman"},
+            {"id": "spy"},
+            {"id": "godfather"},
+            {"id": "imp"},
+			{"id": "no_dashii"},
+			{"id": "lil_monsta"}
+        ]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Juanvi", "pfp": "https://ui-avatars.com/api/?name=Juanvi&background=A60707&color=fff&size=150" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+		],
+		"residents": [
+			{"name":"hack13","role":"slayer","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"torch89", "role":"poisoner","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox", "role":"washerwoman","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Conicaw", "role":"seamstress","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Frooxius","role":"fortune_teller","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"1amNick","role":"party_goer","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","role":"undertaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"retrospectiv", "role":"imp", "reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "Night 1\r\n-------\r\nNick makes a party with Retro\r\nTorch Poisons Hack13\r\nVentus Learns that Froox or Conicow is the Fortune Teller\r\nFrooxius selects Coni and Retro and learns neither is the demon due to the party maker\r\nConisaw doesn't use his ability tonight\r\n\r\nDay 1\r\n----\r\nThe Town Executes No one\r\n\r\nNight 2\r\n------\r\nNick choses hack13\r\nTorch choises to poison Ventus because he sent an ear raping message thru discord\r\nRetro the Imp choses to Execute Xeno\r\nFrooxius Choses Hack13 and Torch and Learns one is the demon - Hack13 is the Decoy\r\nConicaw choses no one today \r\n\r\n\r\nDay 2\r\n---------\r\nVentus bluffs a slayer ability on Conicow\r\nEveryone goes to bed and misses the party\r\n\r\nNight 3\r\n---------\r\nNick choses to crash at Frooxius\r\nTorch choses to poison hack13\r\nretro the imp choses to kill Frooxius\r\nConicaw choses Torch and Hack13 and learns they are not the same alignment\r\n\r\nDay 3\r\n--------\r\nNick partied too hard and died with Frooxius\r\nHack using their slayer on torch and nothing happens becuase they are poisoned plus Torch wasn't the demon\r\nhack was executed by the town\r\n\r\n\r\nNight 4\r\n--------\r\nTorch choses to poison Cowicow\r\nretro the imp choses to kill Ventus\r\n\r\nDay 4\r\n-------\r\nThe Town choses to execute Torch"
+}
