@@ -53,7 +53,7 @@
 			{"name":"Frooxius","role":"fortune_teller","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"1amNick","role":"party_goer","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"xenomorphVR","role":"undertaker","reminders":[],"isDead":true,"pronouns":""},
-			{"name":"retrospectiv", "role":"imp", "reminders":[],"isDead":true,"pronouns":""}
+			{"name":"retrospectiv", "role":"imp", "reminders":[],"isDead":false,"pronouns":""}
 		],
 		"travellers": [ 
 
