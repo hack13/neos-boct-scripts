@@ -1,0 +1,74 @@
+{
+	"game name" : "Whose Role is it Anyways?",
+	"date" : "September 10, 2022",
+	"thumbnail" : "",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "YouTube",
+			"source" : "",
+			"credit" : "Raith"
+		}
+	],
+	"script": {
+		"name": "Rumpelstiltskin",
+		"author": "Ari",
+		"roles": [
+			{"id":"chef"},
+			{"id":"empath"},
+			{"id":"fortune_teller"},
+			{"id":"monk"},
+			{"id":"ravenkeeper"},
+			{"id":"soldier"},
+			{"id":"undertaker"},
+			{"id":"artist"},
+			{"id":"savant"},
+			{"id":"clockmaker"},
+			{"id":"juggler"},
+			{"id":"mathematician"},
+			{"id":"chambermaid"},
+			{"id":"drunk"},
+			{"id":"recluse"},
+			{"id":"saint"},
+			{"id":"baron"},
+			{"id":"poisoner"},
+			{"id":"scarlet_woman"},
+			{"id":"imp"},
+			{"id":"vigormortis"},
+			{"id":"shabaloth"},
+			{"id":"po"},
+			{"id":"gold_spinner"},
+			{"id":"brainwasher"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp":"/assets/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" },
+			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "retrospectiv", "pfp": "https://ui-avatars.com/api/?name=retrospectiv&background=A60707&color=fff&size=150" }
+		],
+		"residents": [
+			{"name":"Zandario","role":"chef","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Troy", "role":"juggler","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Da_Chunky", "role":"recluse","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"1amNick", "role":"savant","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Juanvi","role":"empath","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Tali","role":"mathematician","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Frooxius","role":"fortune_teller","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"Ventus the Sox", "role":"chambermaid", "reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Valnar", "role":"gold_spinner", "reminders":[], "isDead":true, "pronouns":""},
+			{"name":"Chief Redneck", "role":"brainwasher", "reminders":[], "isDead":false, "pronouns":""},
+			{"name":"Conicaw", "role":"poisoner", "reminders":[], "isDead":false, "pronouns":""},
+			{"name":"AngryWolf", "role":"po", "reminders":[], "isDead":false, "pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "Beautifully played game by both the good and evil team! Special thanks to Retro, Raith and Delta for being incredible storytellers who each fixed at least one mistake I made.\n\nZandario was your accomplished Chef who started knowing 0 pairs of evil players.\n\nTroy was your actual Juggler who juggled only Zandario as the Chef correctly.\n\nDa_Chunky was your Recluse who was brutally executed by the town on the third day.\n\n1amNick was your Savant whose correct information was: 1. 4 players were affected by the Brainwasher, 2. they were poisoned, 3. 1 player received incorrect information last night, and 4. at least 1 of your alive neighbors are evil. They died to the second Po charge.\n\nJuanvi was the Empath who was given the Mathematician token at the start and immediately poisoned by Coni and learned a 0 first night even though they were next to the Recluse registering as evil. They then correctly learned a 1 the second night. And then they were killed by a charged Po.\n\nTali was the Mathematician who was given the Empath token at the start. They learned 1 role functioned abnormally the first night (Juanvi) and nobody the second night, then they were also killed by a charged Po.\n\nFroox was the Fortune Teller who was given the Chambermaid token at the start. They got a 0 for Coni and Tali, a 0 for Valnar and Juanvi, and while poisoned a 0 for Ventus and Angrywolf. Next they got a 0 for Chief and 1amNick and stated \"I am very confused now.\". They got poisoned on the final night and incorrectly got a 1 for Tali and Coni.\n\nVentus was the Chambermaid who was given the Fortune Teller token at the start. They learned 1 person between Froox and Angry woke up the first night, that both Ventus and Froox woke the second night. 1 of Juanvi and Froox woke the third night, and on the fourth night they really wanted a 2 for Froox and Chief. Since they were poisoned, so we gave them that 2 even though they should have gotten a 1. They were then killed by the second Po charge.\n\nValnar was your crafty Gold Spinner. The first night they were told to implicate Froox as evil. Then to vote yes on all nominations (even though there were none). Then they were told to nominate a living neighbor and they nominated one of their neighbors WHO WAS THE ACTUAL DEMON which didn't pass. Next day they were told all of their private conversations had to be in the mausoleum. They incorrectly picked Froox as their guess for Evil, and never found out if it was correct because they were also killed by the second Po charge.\n\nAnnnnnd your evil team was composed of:\n\nChief as your Soldier-bluffing, extreme chaos causing Brainwasher.\n\nConi as the very talented Poisoner who got the Empath, Savant, Fortune Teller, Chambermaid, and finally a perfect and coordinated poison on the Fortune Teller again. They claimed Clockmaker and gave 3, which was correct information.\n\nAnd finally, Angry as your demon, the Po, who charged, murdered 3, charged, and murdered 3."
+}
