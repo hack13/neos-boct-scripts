@@ -7,8 +7,15 @@
 			"id" : "0",
 			"perspective" : "Storyteller",
 			"platform" : "YouTube",
-			"source" : "https://www.youtube.com/watch?v=IROuV3I5ZHw",
+			"source" : "www.youtube.com/embed/IROuV3I5ZHw",
 			"credit" : "Raith"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Juggler",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/JsroK0JSJ7k",
+			"credit" : "troyBORG"
 		}
 	],
 	"script": {
@@ -51,7 +58,7 @@
 		],
 		"residents": [
 			{"name":"Zandario","role":"chef","reminders":[],"isDead":false,"pronouns":""},
-			{"name":"Troy", "role":"juggler","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"troyBORG", "role":"juggler","reminders":[],"isDead":false,"pronouns":""},
 			{"name":"Da_Chunky", "role":"recluse","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"1amNick", "role":"savant","reminders":[],"isDead":true,"pronouns":""},
 			{"name":"Juanvi","role":"empath","reminders":[],"isDead":true,"pronouns":""},
