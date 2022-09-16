@@ -43,7 +43,7 @@
 	"roster" : {
 		"storytellers": [
 			{ "name": "Juanvi", "pfp": "https://ui-avatars.com/api/?name=Juanvi&background=A60707&color=fff&size=150" },
-			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+			{ "name": "Raith", "pfp": "https://cdn.neosclocktower.fans/storytellers/Raith.webp" }
 		],
 		"residents": [
 			{"name":"hack13","role":"slayer","reminders":[],"isDead":true,"pronouns":""},

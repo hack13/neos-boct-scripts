@@ -41,8 +41,8 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
-			{ "name": "1amNick", "pfp": "/assets/storytellers/1amNick.webp" }
+			{ "name": "Foxworth", "pfp": "https://cdn.neosclocktower.fans/storytellers/foxworth.webp" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
 		],
 		"residents": [
 

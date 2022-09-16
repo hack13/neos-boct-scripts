@@ -44,10 +44,10 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
-			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
-			{ "name": "1amNick", "pfp": "/assets/storytellers/1amNick.webp" },
-			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" },
+			{ "name": "Ari", "pfp": "https://cdn.neosclocktower.fans/storytellers/Ari.webp" },
+			{ "name": "Foxworth", "pfp": "https://cdn.neosclocktower.fans/storytellers/foxworth.webp" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
 			{ "name": "Chief Redneck", "pfp": "https://ui-avatars.com/api/?name=Chief+Redneck&background=A60707&color=fff&size=150" }
 		],
 		"residents": [

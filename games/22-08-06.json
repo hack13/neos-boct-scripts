@@ -41,8 +41,8 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
-			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" }
+			{ "name": "Foxworth", "pfp": "https://cdn.neosclocktower.fans/storytellers/foxworth.webp" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" }
 		],
 		"residents": [
 			{"name":"Ventus The Sox","role":"empath","reminders":[],"isDead":false,"pronouns":""},

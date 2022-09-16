@@ -44,7 +44,7 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Foxworth", "pfp": "/assets/storytellers/foxworth.webp" },
+			{ "name": "Foxworth", "pfp": "https://cdn.neosclocktower.fans/storytellers/foxworth.webp" },
 			{ "name": "Cheif Redneck", "pfp": "https://ui-avatars.com/api/?name=Chief+Redneck&background=A60707&color=fff&size=150" }
 		],
 		"residents": [

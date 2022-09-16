@@ -51,7 +51,7 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Delta", "pfp": "/assets/storytellers/DeltaWolf.webp" }
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" }
 		],
 		"residents": [
 			{"name":"Hack13","role":"widow","reminders":[],"isDead":true,"pronouns":""},

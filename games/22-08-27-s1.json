@@ -44,8 +44,8 @@
 	},
 	"roster" : {
 		"storytellers": [
-			{ "name": "Ari", "pfp": "/assets/storytellers/Ari.webp" },
-			{ "name": "Raith", "pfp": "/assets/storytellers/Raith.webp" }
+			{ "name": "Ari", "pfp": "https://cdn.neosclocktower.fans/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "https://cdn.neosclocktower.fans/storytellers/Raith.webp" }
 		],
 		"residents": [
 			{"name":"Zandario","role":"undertaker","reminders":[{"lleeched":true}],"isDead":true,"pronouns":""},
