@@ -16,6 +16,13 @@
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/nyIIa-8LbTY",
 			"credit" : "Raith"
+		},
+		{
+			"id" : "2",
+			"perspective" : "Storyteller",
+			"platform" : "clappr",
+			"source" : "cdn.neosclocktower.fans/videos/foxworth-22-09-17/index.html",
+			"credit" : "Foxworth"
 		}
 	],
 	"script": {
