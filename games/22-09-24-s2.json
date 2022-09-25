@@ -62,7 +62,7 @@
 			{"name":"torch","id":"","role":"recluse","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Ventus","id":"","role":"fanggu","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"xeno","id":"","role":"thepositioner","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
-			{"name":"Froox","id":"","role":"constantine","reminders":[{"role":"custom","name":"DEAL DONE"}],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Froox","id":"","role":"constantine","reminders":[{"role":"custom","name":"DEAL DONE"}],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Coni","id":"","role":"ravenkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Zandario","id":"","role":"undertaker","reminders":[{"role":"evil","name":"Evil"}],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Juanvi","id":"","role":"fanggu","reminders":[{"starting role":"saint"}],"isVoteless":false,"isDead":true,"pronouns":""},
