@@ -1,0 +1,52 @@
+{
+	"game name" : " The Town Figures It Out",
+	"date" : "September 24, 2022",
+	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/22-09-24-s1.webp",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Empath",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/_uLdo6m3Yc0",
+			"credit" : "hack13"
+		}
+	],
+	"script": {
+		"name": "No Greater Joy",
+		"author": "Pandemonium Institute",
+		"roles": [
+			{"id": "clockmaker"},
+			{"id": "investigator"},
+			{"id": "empath"},
+			{"id": "chambermaid"},
+			{"id": "artist"},
+			{"id": "sage"},
+			{"id": "drunk"},
+			{"id": "klutz"},
+			{"id": "scarlet_woman"},
+			{"id": "baron"},
+			{"id": "imp"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp":"https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
+		],
+		"residents": [
+			{"name":"hack13","role":"empath","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Chief Redneck", "role":"chambermaid","reminders":[{"drunk":"true"}],"isDead":true,"pronouns":""},
+			{"name":"GabrielSerealia", "role":"scarlet_woman","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"epicEaston197", "role":"empath","reminders":[],"isDead":false,"pronouns":""},
+			{"name":"troyBORG","role":"imp","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Valnar","role":"sage","reminders":[],"isDead":false,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}

@@ -1,0 +1,80 @@
+{
+	"game name" : "A Story Where Everyone Dies",
+	"date" : "September 24, 2022",
+	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/22-09-24-s2.webp",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/RRnDfiL2g7g",
+			"credit" : "hack13"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Monk",
+			"platform" : "YouTube",
+			"source" : "",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "Trouble Frightening",
+		"author": "Ari",
+		"roles": [
+			{"id":"chef"},
+			{"id":"empath"},
+			{"id":"fortuneteller"},
+			{"id":"librarian"},
+			{"id":"investigator"},
+			{"id":"mayor"},
+			{"id":"monk"},
+			{"id":"ravenkeeper"},
+			{"id":"slayer"},
+			{"id":"undertaker"},
+			{"id":"washerwoman"},
+			{"id":"constantine"},
+			{"id":"soldier"},
+			{"id":"drunk"},
+			{"id":"recluse"},
+			{"id":"saint"},
+			{"id":"wraith"},
+			{"id":"baron"},
+			{"id":"poisoner"},
+			{"id":"vengefulspirit"},
+			{"id":"thepositioner"},
+			{"id":"imp"},
+			{"id":"fanggu"},
+			{"id":"pukka"},
+			{"id":"vortox"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Ari", "pfp":"https://cdn.neosclocktower.fans/storytellers/Ari.webp" },
+			{ "name": "Raith", "pfp": "https://cdn.neosclocktower.fans/storytellers/Raith.webp" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" }
+		],
+		"residents": [
+			{"name":"AngryWolf","id":"","role":"mayor","reminders":[{"role":"drunk","name":"Drunk"}],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"BlueTera","id":"","role":"fortuneteller","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Todd","id":"","role":"vengefulspirit","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"torch","id":"","role":"recluse","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Ventus","id":"","role":"fanggu","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"xeno","id":"","role":"thepositioner","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Froox","id":"","role":"constantine","reminders":[{"role":"custom","name":"DEAL DONE"}],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Coni","id":"","role":"ravenkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Zandario","id":"","role":"undertaker","reminders":[{"role":"evil","name":"Evil"}],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Juanvi","id":"","role":"fanggu","reminders":[{"starting role":"saint"}],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Foxworth","id":"","role":"monk","reminders":[{"role":"fortuneteller","name":"Red herring"}],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Retro","id":"","role":"chef","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": ""
+}
