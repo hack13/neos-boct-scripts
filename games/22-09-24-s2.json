@@ -5,17 +5,17 @@
 	"video sources" : [
 		{
 			"id" : "0",
+			"perspective" : "Monk",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/rJcKKp9UtII",
+			"credit" : "Foxworth"
+		},
+		{
+			"id" : "1",
 			"perspective" : "Storyteller",
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/RRnDfiL2g7g",
 			"credit" : "hack13"
-		},
-		{
-			"id" : "1",
-			"perspective" : "Monk",
-			"platform" : "YouTube",
-			"source" : "",
-			"credit" : "Foxworth"
 		}
 	],
 	"script": {
