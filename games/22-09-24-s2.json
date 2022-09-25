@@ -24,7 +24,7 @@
 		"roles": [
 			{"id":"chef"},
 			{"id":"empath"},
-			{"id":"fortuneteller"},
+			{"id":"fortune_teller"},
 			{"id":"librarian"},
 			{"id":"investigator"},
 			{"id":"mayor"},
