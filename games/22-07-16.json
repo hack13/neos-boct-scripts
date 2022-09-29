@@ -6,8 +6,8 @@
 		{ 
 			"id" : "0",
 			"perspective" : "Storyteller",
-			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/d03c7bdb-60c1-4a30-9f1f-d87d2d5b3cc9?autoplay=false&preload=false",
+			"platform" : "clappr",
+			"source" : "cdn.neosclocktower.fans/videos/d03c7bdb-60c1-4a30-9f1f-d87d2d5b3cc9",
 			"credit" : "Foxworth"
 		},
 		{

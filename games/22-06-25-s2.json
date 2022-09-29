@@ -6,8 +6,8 @@
 		{ 
 			"id" : "0",
 			"perspective" : "Empath",
-			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/8f08142f-3c3e-4edf-87ff-0ed9469fb66c?autoplay=false&preload=false",
+			"platform" : "clappr",
+			"source" : "cdn.neosclocktower.fans/videos/8f08142f-3c3e-4edf-87ff-0ed9469fb66c",
 			"credit" : "Hack13"
 		},
 		{

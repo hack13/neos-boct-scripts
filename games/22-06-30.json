@@ -6,8 +6,8 @@
 		{ 
 			"id" : "0",
 			"perspective" : "Clockmaker/Legion",
-			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/066c9aa4-1ab7-4647-acfa-c274215c2cb6?autoplay=false&preload=false",
+			"platform" : "clappr",
+			"source" : "cdn.neosclocktower.fans/videos/066c9aa4-1ab7-4647-acfa-c274215c2cb6",
 			"credit" : "Hack13"
 		},
 		{

@@ -6,8 +6,8 @@
 		{ 
 			"id" : "0",
 			"perspective" : "Sailor",
-			"platform" : "BunnyPlayer",
-			"source" : "iframe.mediadelivery.net/embed/46527/f6bc529a-3059-4d38-bb15-52261ef8ea59?autoplay=false&preload=false",
+			"platform" : "clappr",
+			"source" : "cdn.neosclocktower.fans/videos/f6bc529a-3059-4d38-bb15-52261ef8ea59",
 			"credit" : "Foxworth"
 		}
 	],
