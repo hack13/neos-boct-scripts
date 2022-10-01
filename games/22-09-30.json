@@ -42,7 +42,8 @@
 			{"id":"baron"},
 			{"id":"poisoner"},
 			{"id":"scarlet_woman"},
-			{"id":"spy"}
+			{"id":"spy"},
+			{"id":"imp"}
 		]
 	},
 	"roster" : {
