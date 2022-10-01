@@ -1,0 +1,72 @@
+{
+	"game name" : "The Cunning Fox",
+	"date" : "September 24, 2022",
+	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/22-09-30.webp",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Washerwoman",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/M55_kWNo8PQ",
+			"credit" : "Hack13"
+		},
+		{
+			"id" : "1",
+			"perspective" : "Imp",
+			"platform" : "YouTube",
+			"source" : "",
+			"credit" : "Foxworth"
+		}
+	],
+	"script": {
+		"name": "Trouble Awooing",
+		"author": "Unknown",
+		"roles": [
+			{"id":"chef"},
+			{"id":"empath"},
+			{"id":"fortune_teller"},
+			{"id":"investigator"},
+			{"id":"librarian"},
+			{"id":"monk"},
+			{"id":"ravenkeeper"},
+			{"id":"slayer"},
+			{"id":"soldier"},
+			{"id":"undertaker"},
+			{"id":"virgin"},
+			{"id":"washerwoman"},
+			{"id":"lycanthrope"},
+			{"id":"butler"},
+			{"id":"drunk"},
+			{"id":"recluse"},
+			{"id":"saint"},
+			{"id":"baron"},
+			{"id":"poisoner"},
+			{"id":"scarlet_woman"},
+			{"id":"spy"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "LeviTheHusky", "pfp": "https://ui-avatars.com/api/?name=LeviTheHusky&background=A60707&color=fff&size=150" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
+			{ "name": "Retroxpective", "pfp": "https://ui-avatars.com/api/?name=retrospectiv&background=A60707&color=fff&size=150" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
+		],
+		"residents": [
+			{"name":"Todd","id":"","role":"monk","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox","id":"","role":"lycanthrope","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Nexulan","id":"","role":"poisoner","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Frooxius","id":"","role":"undertaker","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Conicaw","id":"","role":"reavenkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Foxworth","id":"","role":"imp","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Hack13","id":"","role":"washerwoman","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "Angry was the Drunk Mayor.\n Blue was the Fortune Teller who found both demons, and did not find their red herring.\n Todd was the Vengeful Spirit who famously and convincingly bluffed Empath and died in the final night, also killing Zandario instantly.\n Torch was the not evil Recluse.\n Ventus was your original Fang Gu who only killed Froox, then died passing the Fang Gu to Juanvi. The next 2 nights they picked Foxworth and Coni then finally BlueTera.\n Xenomorph was the Positioner who claimed Librarian and didn't affect the game at all, except in the final night when they took away the Monks ability by switching them with the Fortune Teller. Great play.\n Froox was the Constantine who made a deal for good players to keep their abilities when they die... but the other side of the deal was for evil to keep their abilities as well. And to move someone to the evil side to balance things more. Zandario was selected.\n Coni was the Ravenkeeper who learned of the second Fang Gu.\n Zandario was the Undertaker who became evil night 2. They probably lied to you.\n Juanvi was the Saint who became the evil Fang Gu, and picked Foxworth and Coni the same night as Ventus. On the final night they embraced Chaos and picked Todd.\n Foxworth was the Monk who protected the Fang Gu, the Vengeful Spirit, the Vengeful Spirit again, then both Fang Gus kill him on the same night. Then he protected the Fang Gu and the Evil Undertaker. Congratulations. You have protected nothing but evil players the entire game.\n Retro was the Chef who was told there were 3 pairs of evil players. Minion, Recluse, Demon, Minion, in a row. Except nobody listened."
+}
