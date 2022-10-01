@@ -58,7 +58,7 @@
 			{"name":"Ventus The Sox","id":"","role":"lycanthrope","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Nexulan","id":"","role":"poisoner","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
 			{"name":"Frooxius","id":"","role":"undertaker","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
-			{"name":"Conicaw","id":"","role":"reavenkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Conicaw","id":"","role":"ravenkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
 			{"name":"Foxworth","id":"","role":"imp","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
 			{"name":"Hack13","id":"","role":"washerwoman","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""}
 		],
