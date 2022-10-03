@@ -54,7 +54,7 @@
 			{ "name": "Ari", "pfp":"https://cdn.neosclocktower.fans/storytellers/Ari.webp" },
 			{ "name": "Raith", "pfp": "https://cdn.neosclocktower.fans/storytellers/Raith.webp" },
 			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
-			{ "name": "Retrospective", "pfp": "https://cdn.neosclocktower.fans/storytellers/Retrospective.webp" }
+			{ "name": "Retrospektiv", "pfp": "https://cdn.neosclocktower.fans/storytellers/Retrospektiv.webp" }
 		],
 		"residents": [
 			{"name":"Zandario","role":"chef","reminders":[],"isDead":false,"pronouns":""},
