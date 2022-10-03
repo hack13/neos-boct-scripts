@@ -7,14 +7,14 @@
 			"id" : "0",
 			"perspective" : "Washerwoman",
 			"platform" : "YouTube",
-			"source" : "www.youtube.com/embed/M55_kWNo8PQ",
+			"source" : "www.youtube.com/embed/RlvVRzb8PUY",
 			"credit" : "Hack13"
 		},
 		{
 			"id" : "1",
 			"perspective" : "Imp",
 			"platform" : "YouTube",
-			"source" : "",
+			"source" : "www.youtube.com/embed/fEF1HcaE22o",
 			"credit" : "Foxworth"
 		}
 	],
@@ -50,7 +50,7 @@
 		"storytellers": [
 			{ "name": "LeviTheHusky", "pfp": "https://ui-avatars.com/api/?name=LeviTheHusky&background=A60707&color=fff&size=150" },
 			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
-			{ "name": "Retroxpective", "pfp": "https://ui-avatars.com/api/?name=retrospectiv&background=A60707&color=fff&size=150" },
+			{ "name": "Retrospective", "pfp": "https://cdn.neosclocktower.fans/storytellers/Retrospective.webp" },
 			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
 		],
 		"residents": [
