@@ -3,18 +3,11 @@
 	"date" : "June 30, 2022",
 	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/22-06-30.webp",
 	"video sources" : [
-		{ 
+		{
 			"id" : "0",
 			"perspective" : "Clockmaker/Legion",
-			"platform" : "clappr",
-			"source" : "cdn.neosclocktower.fans/videos/066c9aa4-1ab7-4647-acfa-c274215c2cb6/index.html",
-			"credit" : "Hack13"
-		},
-		{
-			"id" : "1",
-			"perspective" : "Clockmaker/Legion",
 			"platform" : "YouTube",
-			"source" : "www.youtube.com/embed/q-3OpUAaq30",
+			"source" : "www.youtube.com/embed/YCr4TARaD-A",
 			"credit" : "Hack13"
 		}
 	],
