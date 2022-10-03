@@ -3,15 +3,8 @@
 	"date" : "June 21, 2022",
 	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/thumbnail_8943c357.webp",
 	"video sources" : [
-		{ 
-			"id" : "0",
-			"perspective" : "Empath",
-			"platform" : "clappr",
-			"source" : "cdn.neosclocktower.fans/videos/2ae2b03d-09de-42c0-9861-060dcf3f9814/index.html",
-			"credit" : "Hack13"
-		},
 		{
-			"id" : "1",
+			"id" : "0",
 			"perspective" : "Empath",
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/YrInwRrCcsQ",

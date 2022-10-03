@@ -3,22 +3,15 @@
 	"date" : "June 25, 2022",
 	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/thumbnail_c3d66236.webp",
 	"video sources" : [
-		{ 
+		{
 			"id" : "0",
 			"perspective" : "Empath",
-			"platform" : "clappr",
-			"source" : "cdn.neosclocktower.fans/videos/8f08142f-3c3e-4edf-87ff-0ed9469fb66c/index.html",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/ynJz4y1LyHI",
 			"credit" : "Hack13"
 		},
 		{
 			"id" : "1",
-			"perspective" : "Empath",
-			"platform" : "YouTube",
-			"source" : "www.youtube.com/embed/q-3OpUAaq30",
-			"credit" : "Hack13"
-		},
-		{
-			"id" : "3",
 			"perspective" : "Moonchild",
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/7L30SYBiVIc",
