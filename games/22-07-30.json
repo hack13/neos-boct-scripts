@@ -6,15 +6,15 @@
 		{ 
 			"id" : "0",
 			"perspective" : "Gambler",
-			"platform" : "clappr",
-			"source" : "cdn.neosclocktower.fans/videos/763c11d2-a870-4dbe-a48e-6ee66e2191a8/index.html",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/jCsjyoUdJxs",
 			"credit" : "Foxworth"
 		},
         {
             "id" : "1",
             "perspective" : "Savant",
             "platform" : "clappr",
-            "source" : "cdn.neosclocktower.fans/videos/61592b0d-73ee-40f1-b942-bf7449ca5f3f/index.html",
+            "source" : "www.youtube.com/embed/jZRLS6ohyKU",
             "credit" : "Hack13"
         }
 	],
