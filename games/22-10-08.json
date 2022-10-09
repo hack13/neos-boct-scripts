@@ -1,0 +1,72 @@
+{
+	"game name" : "Jugglers, Soldiers, and Damsels. Oh My!",
+	"date" : "October 8, 2022",
+	"thumbnail" : "<<place thumbnail here>>",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Pit-Hag/Psychopath",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/<<code>>",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Sects and What?",
+		"author": "Unknown",
+		"roles": [
+			{"id":"clockmaker"},
+			{"id":"dreamer"},
+			{"id":"mathematician"},
+			{"id":"snake_charmer"},
+			{"id":"oracle"},
+			{"id":"juggler"},
+			{"id":"artist"},
+			{"id":"slayer"},
+			{"id":"seamstress"},
+			{"id":"philosopher"},
+			{"id":"huntsman"},
+			{"id":"sage"},
+			{"id":"atheist"},
+			{"id":"sweetheart"},
+			{"id":"damsel"},
+			{"id":"klutz"},
+			{"id":"drunk"},
+			{"id":"witch"},
+			{"id":"cerenovus"},
+			{"id":"pit"},
+			{"id":"psychopath"},
+			{"id":"no_dashii"},
+			{"id":"vigormortis"},
+			{"id":"fang_gu"},
+			{"id":"vortox"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "Raith", "pfp": "https://cdn.neosclocktower.fans/storytellers/Raith.webp" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
+		],
+		"residents": [
+			{"name":"Chief Redneck","id":"","role":"juggler","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Foxworth","id":"","role":"pit","reminders":[{"role":"psychopath"}],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Valnar","id":"","role":"vigormortis","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Juanvi","id":"","role":"huntsman","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Todd","id":"","role":"artist","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Angrywolf","id":"","role":"seamstress","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Conicaw","id":"","role":"sage","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox","id":"","role":"slayer","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","id":"","role":"clockmaker","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Lunhaadviin","id":"","role":"damsel","reminders":[{"role":"oracle"}],"isDead":true,"pronouns":""},
+			{"name":"Troyborg","id":"","role":"cerenovus","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "-- Night 1 --\nTroy makes Ventus mad he is the slayer\nThe huntsman choses no one\nClockmaker gets 2\nAngry choses no one\n\n--- Day 1 ---\nFoxworth Juggles - Ventus is the slayer, Xeno is the Nodashi, Koni is the Fengus, Juanvi is the Atheist, Chief is sweet heart\nChief - Ventus slayer, Angry seamstress, Troy as Nodashi\nJuanvi - Juggles half the town is the vigormortis\nTroy was executed with 8 votes\n\n-- Night 2 --\nFoxworth choses to make himself the Psychopath\nValnar chorse to Kill Angry Wolf\nJuanvi choses to look for his Damsel Lun and finds them, and they become the oracle\nthe oracle learns a 1\nChief learns a two\n\n--- Day 2 ---\nThe town chooses to double tap troy\nFoxworth says to Delta, \"I feel like I got f'ed by the clockmaker...\"\n\n--- Night 3 ---\nValnar chooses to execute Ventus the Slayer\nOracle learns a 1 again\n\n--- Day 3 ---\nTodd Asks if Valnar, Juanvi or Lunah is the Demon and gets a Yes\nThe town nominated Lunah\nFoxworth calls that Lunah is the Damsel and because they got found nothing happened\nLunah gets executed by the town\n\n---- Night 4 ----\nValnar kills conicaw \nConicaw learns that either Valnar or Todd is the demon\n\n--- Day 4 ----\nFoxworth kill Xeno with his Psyhopath Ability"
+}
