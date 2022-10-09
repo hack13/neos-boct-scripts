@@ -1,0 +1,69 @@
+{
+	"game name" : "Soldiers & Ravenkeepers Aren't Real",
+	"date" : "October 7, 2022",
+	"thumbnail" : "https://cdn.neosclocktower.fans/thumbnails/22-10-07.webp",
+	"video sources" : [
+		{
+			"id" : "0",
+			"perspective" : "Devil's Advocate",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/uZAoUG_JDVM",
+			"credit" : "Hack13"
+		}
+	],
+	"script": {
+		"name": "Raith's Trouble",
+		"author": "Raith",
+		"roles": [
+			{"id":"investigator"},
+			{"id":"washerwoman"},
+			{"id":"librarian"},
+			{"id":"fortune_teller"},
+			{"id":"undertaker"},
+			{"id":"innkeeper"},
+			{"id":"monk"},
+			{"id":"professor"},
+			{"id":"soldier"},
+			{"id":"pacifst"},
+			{"id":"ravenkeeper"},
+			{"id":"virgin"},
+			{"id":"mayor"},
+			{"id":"tinker"},
+			{"id":"sweetheart"},
+			{"id":"drunk"},
+			{"id":"moonchild"},
+			{"id":"poisoner"},
+			{"id":"devils_advocate"},
+			{"id":"baron"},
+			{"id":"scarlet_woman"},
+			{"id":"imp"}
+		]
+	},
+	"roster" : {
+		"storytellers": [
+			{ "name": "LeviTheHusky", "pfp": "https://ui-avatars.com/api/?name=LeviTheHusky&background=A60707&color=fff&size=150" },
+			{ "name": "Delta", "pfp": "https://cdn.neosclocktower.fans/storytellers/DeltaWolf.webp" },
+			{ "name": "1amNick", "pfp": "https://cdn.neosclocktower.fans/storytellers/1amNick.webp" }
+		],
+		"residents": [
+			{"name":"Raith","id":"","role":"innkeeper","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Foxworth","id":"","role":"undertaker","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Retrospektiv","id":"","role":"scarlet_woman","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Juanvi","id":"","role":"investigator","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Todd","id":"","role":"imp","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"BlueTera","id":"","role":"moonchild","reminders":[],"isVoteless":false,"isDead":false,"pronouns":""},
+			{"name":"Hack13","id":"","role":"devils_advocate","reminders":[],"isVoteless":false,"isDead":true,"pronouns":""},
+			{"name":"Ventus The Sox","id":"","role":"pacifist","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"xenomorphVR","id":"","role":"fortune_teller","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"Zaira Wolfe","id":"","role":"librarian","reminders":[],"isDead":true,"pronouns":""},
+			{"name":"brodokk","id":"","role":"professor","reminders":[],"isDead":true,"pronouns":""}
+		],
+		"travellers": [ 
+
+		],
+		"fabled": [ 
+			
+		]
+	},
+	"notes": "10/7/2022\n7/1/2/1\n\ndemon bluffs monk/RK/soldier\n\nn1\nhack13 DA protected raith\nlibrarian zaira learns juanvi or bluetera is the moonchild\njuanvi investigator learns hack or ventus is DA\nxenomorph picked xeno and ventus, learned no\n\nd1\n{ST}todd claiming monk\n{ST}retro claiming solder\n{ST}hack claiming virgin soldier innkeeper, then to RK\n\nfoxworth nom'd ventus, 5 votes\njuanvi nom'd juanvi, 8 votes, on the block\n\njaunvi executed\n\nn2\nraith protects retro and jaunvi (jaunvi drunk)\nhack DA protect retro\ntodd kills brodokk\nxeno FT picks xeno and retro, learns no\nundertaker learns an investigator died by execution\n\nd2\nbrodokk died in the night\n\n{ST} if xeno or ventus is on the block, protect them via pacifist\n\nxeno nom'd ventus, 7 votes, on the block\nventus nom'd xeno, 2 votes\n\nventus executed but does not die (pacifist)\n\nn3\nraith protected zaira and hack13 (Zaira drunk)\nhack DA protects Todd\nTodd kills raith\nZaira no longer drunk\nxeno FT picks xeno and bluetera learns no\n\nd3\n{ST} \"Oh by the way, ventus is the imp, I was the ravenkeeper\" - raith, claiming to be rk when they died in the night\n{ST}\"Like a professional, I have no idea what I am doing\" - brodokk, after learning the well is for 'professionals' referring to lack of a script in it\n\nxeno nom'd ventus, 7 votes, on block\n\nventus has been execute and died\n\nn4\nhack DA protects hack13\ntodd kills xenomorph\nundertaker learns ventus as the pacifist\n\nd4\nxeno died in the night\n\nhack nom'd hack, 0 votes\nTodd nom'd todd, 2 votes\nfw nom'd retro, 3 votes\n\nretro \n\nn5\nhack DA protects todd\ntodd kills zaira\nfw learns retro was the scarlet woman\n\nd5\nzaira died in the night\n\nhack nom'd todd, 3 votes\ntodd nom'd bluetera, 1 vote\n\nn6\ntodd killed themself\nhack is now the imp\n\nd6\ntodd died in the night\n\nhack nom'd hack, 7 votes, on block can't be beaten\nhack executed\n\ngood wins"
+}
