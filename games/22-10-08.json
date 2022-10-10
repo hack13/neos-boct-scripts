@@ -13,7 +13,7 @@
 	],
 	"script": {
 		"name": "Sects and What?",
-		"author": "Unknown",
+		"author": "Raith",
 		"roles": [
 			{"id":"clockmaker"},
 			{"id":"dreamer"},
