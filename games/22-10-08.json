@@ -5,6 +5,13 @@
 	"video sources" : [
 		{
 			"id" : "0",
+			"perspective" : "Storyteller",
+			"platform" : "YouTube",
+			"source" : "www.youtube.com/embed/_Bk_K9pqqTQ",
+			"credit" : "Raith"
+		},
+		{
+			"id" : "1",
 			"perspective" : "Pit-Hag/Psychopath",
 			"platform" : "YouTube",
 			"source" : "www.youtube.com/embed/O0Z8_VPWWk4",
